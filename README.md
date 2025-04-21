@@ -18,8 +18,7 @@ Click or tap anywhere to flap and avoid the pipes. The longer you survive, the h
 Coming soon...
 
 ## Screenshots
-_Add some screenshots later if you want_
-
+Coming soon...
 ---
 
 ### Connect
